@@ -1,7 +1,8 @@
 # WEEK 1. 파이썬 소개
 Python은 문법이 간결하고 읽기 쉬운 프로그래밍 언어입니다. 다른 프로그래밍 언어에 비해 작성해야 하는 코드의 양이 적고 이해하기 쉬워 프로그래밍을 처음 배우는 사람들이 많이 사용하는 언어입니다.
 
-```print("Hello Python")
+```python
+print("Hello Python")
 print("Programming")
 ```
 
